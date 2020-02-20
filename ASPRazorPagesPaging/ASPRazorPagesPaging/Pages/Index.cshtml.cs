@@ -26,6 +26,7 @@ namespace ASPRazorPagesPaging.Pages
                 new Person {Name = "Yan", Age=28},
                 new Person{ Name="Ana", Age=30},
                 new Person {Name="Grey", Age=29},
+                new Person {Name="Mike", Age=35},
             };
         }
         public List<Person> DisplayedPeople { get; set; }
