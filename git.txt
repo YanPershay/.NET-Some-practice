@@ -1,0 +1,21 @@
+$ git init
+
+$ git remote add origin https://github.com/YanPershay/Paging.git
+
+$ git remote -v
+
+$ git add .
+
+$ git commit -m "Adding commit"
+
+$ git push origin master
+
+$ git checkout -- . //remove last changes
+
+-----------Undo bad things--------------------------
+$ git add .
+$ git commit -m "Bad commit for undo"
+
+$ git log //show all commits. Copy commit number
+
+$ git revert *bad commit number*
