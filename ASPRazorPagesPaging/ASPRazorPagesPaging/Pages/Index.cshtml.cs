@@ -43,20 +43,14 @@ namespace ASPRazorPagesPaging.Pages
 
         [BindProperty(SupportsGet = true)] public string SearchString { get; set; }
         
-        public void OnGet(string searchString)
+        public void OnGet()
         {
             DisplayedPeople = people.OrderBy(d => d.Age).Skip((CurrentPage - 1) * PageSize).Take(PageSize).ToList();
             Count = people.Count;
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                DisplayedPeople = people.Where(p => p.Name.Contains(SearchString)).ToList();
+            }
         }
- 
-        public void OnGetByName(string name)
-        {
-            DisplayedPeople = people.Where(p => p.Name.Contains(name)).ToList();
-        }
-        public void OnGetByAge(int age)
-        {
-            DisplayedPeople = people.Where(p => p.Age==age).ToList();
-        }
-        
     }
 }

@@ -2,26 +2,28 @@
 @using ASPRazorPagesPaging
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Home pages";
 }
 
 <h1>Users:</h1>
-<!-- SEARCH -->
-@* <a asp-page-handler="ByName" asp-route-name="Tom" method="post">Click</a> *@
-<form method="get">
+<form>
     <p>
-        Title: <input type="text" asp-for="SearchString"/>
-        <input type="submit" value="Get" formmethod="get"/>
-        <input type="submit" value="Search" asp-page-handler="ByName" asp-route-name="@Model.SearchString" formmethod="post"/>
+        Title:<input type="text" asp-for="SearchString"/>
+        <input type="submit" value="Filter"/>
     </p>
 </form>
+
 <table class="table">
     <tr><td>Name</td><td>Age</td></tr>
     @foreach (Person person in Model.DisplayedPeople)
     {
         <tr>
-            <td>@person.Name</td>
-            <td>@person.Age</td>
+            <td>
+                 @Html.DisplayFor(modelItem => person.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.Age)
+            </td>
         </tr>
     }
 </table>

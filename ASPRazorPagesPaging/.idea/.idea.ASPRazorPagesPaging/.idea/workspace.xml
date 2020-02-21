@@ -2,80 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c77d0e0-d692-4201-8cf3-f45ff56e3500" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.idea.TestProject/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Error.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Index.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Privacy.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Privacy.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Pages/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/TestProject.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/TestProject.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/TestProject.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/TestProject.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/TestProject.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestProject/TestProject/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ASPRazorPagesPaging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASPRazorPagesPaging/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/bin/Debug/netcoreapp3.1/ASPRazorPagesPaging.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/ASPRazorPagesPaging.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ASPRazorPagesPaging/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +32,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Models/Person.cs" />
-        <option value="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml" />
         <option value="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/ASPRazorPagesPaging/Pages/Index.cshtml" />
       </list>
     </option>
   </component>
@@ -116,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ASPRazorPagesPaging">
     <configuration name="ASPRazorPagesPaging" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -184,86 +123,86 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582283919299">
+    <state width="916" height="284" key="GridCell.Tab.0.bottom" timestamp="1582290017317">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582283919299" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582283919298">
+    <state width="916" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582290017317" />
+    <state width="916" height="284" key="GridCell.Tab.0.center" timestamp="1582290017317">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582283919298" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582283919298">
+    <state width="916" height="284" key="GridCell.Tab.0.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582290017317" />
+    <state width="916" height="284" key="GridCell.Tab.0.left" timestamp="1582290017317">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582283919298" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582283919299">
+    <state width="916" height="284" key="GridCell.Tab.0.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582290017317" />
+    <state width="916" height="284" key="GridCell.Tab.0.right" timestamp="1582290017317">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582283919299" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582210344446">
+    <state width="916" height="284" key="GridCell.Tab.0.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582290017317" />
+    <state width="916" height="348" key="GridCell.Tab.1.bottom" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.1.center" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.1.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.1.left" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.1.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.1.right" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.1.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.2.bottom" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.2.center" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.2.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.2.left" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.2.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.2.right" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.2.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.3.bottom" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.3.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.3.center" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.3.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.3.left" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.3.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.3.right" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.3.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.4.bottom" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.4.bottom/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.4.center" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.4.center/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.4.left" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
-    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1582210344446">
+    <state width="916" height="348" key="GridCell.Tab.4.left/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
+    <state width="916" height="348" key="GridCell.Tab.4.right" timestamp="1582288081679">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582210344446" />
+    <state width="916" height="348" key="GridCell.Tab.4.right/0.0.1536.824/3.-1080.1920.1040@3.-1080.1920.1040" timestamp="1582288081679" />
     <state x="75" y="-827" key="Rider.ProjectTemplateDialog.Size" timestamp="1582285244036">
       <screen x="3" y="-1080" width="1920" height="1040" />
     </state>
