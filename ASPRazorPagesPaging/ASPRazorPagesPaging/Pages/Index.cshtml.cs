@@ -31,8 +31,6 @@ namespace ASPRazorPagesPaging.Pages
         }
         public List<Person> DisplayedPeople { get; set; }
 
-       
-
         [BindProperty(SupportsGet = true)]
         public int CurrentPage { get; set; } = 1;
         public int Count { get; set; }
@@ -43,31 +41,12 @@ namespace ASPRazorPagesPaging.Pages
         public bool ShowPrev => CurrentPage > 1;
         public bool ShowNext => CurrentPage < TotalPages;
 
-        public List<Person> GetPaginatedResult(int currentPage, int pageSize)
-        {
-            var data = GetData();
-            return data.OrderBy(d => d.Age).Skip((currentPage - 1) * pageSize).Take(pageSize).ToList();
-        }
-
-        public int GetCount()
-        {
-            return people.Count;
-        }
-
-        private List<Person> GetData()
-        {
-            return people;
-        }
-        
-        #region Search
-
         [BindProperty(SupportsGet = true)] public string SearchString { get; set; }
         
         public void OnGet(string searchString)
         {
-            DisplayedPeople = GetPaginatedResult(CurrentPage, PageSize);
-            Count = GetCount();
-
+            DisplayedPeople = people.OrderBy(d => d.Age).Skip((CurrentPage - 1) * PageSize).Take(PageSize).ToList();
+            Count = people.Count;
         }
  
         public void OnGetByName(string name)
@@ -78,8 +57,6 @@ namespace ASPRazorPagesPaging.Pages
         {
             DisplayedPeople = people.Where(p => p.Age==age).ToList();
         }
-
-        #endregion
         
     }
 }
