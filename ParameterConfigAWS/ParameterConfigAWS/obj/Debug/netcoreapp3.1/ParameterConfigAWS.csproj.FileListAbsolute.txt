@@ -1,0 +1,16 @@
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.exe
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.deps.json
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.runtimeconfig.json
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.runtimeconfig.dev.json
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.dll
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\ParameterConfigAWS.pdb
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\bin\Debug\netcoreapp3.1\AWSSDK.SimpleSystemsManagement.dll
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.csprojAssemblyReference.cache
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.csproj.CoreCompileInputs.cache
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.AssemblyInfoInputs.cache
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.AssemblyInfo.cs
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.csproj.CopyComplete
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.dll
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.pdb
+C:\Projects\ParameterConfigAWS\ParameterConfigAWS\obj\Debug\netcoreapp3.1\ParameterConfigAWS.genruntimeconfig.cache

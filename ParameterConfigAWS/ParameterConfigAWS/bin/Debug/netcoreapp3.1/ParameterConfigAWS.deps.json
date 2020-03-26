@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParameterConfigAWS/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleSystemsManagement": "3.5.0-beta"
+        },
+        "runtime": {
+          "ParameterConfigAWS.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.0-beta": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      },
+      "AWSSDK.SimpleSystemsManagement/3.5.0-beta": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.0-beta"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleSystemsManagement.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParameterConfigAWS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.0-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZRFwKVPowoB87Fgof6F9Vxr/6/3TvAc7Pc17S74oUCCEbPnMLZtELqEREDiWMqkUYZxwcFrgmpML8LQl792XzA==",
+      "path": "awssdk.core/3.5.0-beta",
+      "hashPath": "awssdk.core.3.5.0-beta.nupkg.sha512"
+    },
+    "AWSSDK.SimpleSystemsManagement/3.5.0-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WiZ1ca4nmes6sWbDlWcge72JsSVVGc52ZyGiB/0xTlfttP+iQqqC3zD1alJIoW+1J5dleydyzcz+1a1Ozc7yWw==",
+      "path": "awssdk.simplesystemsmanagement/3.5.0-beta",
+      "hashPath": "awssdk.simplesystemsmanagement.3.5.0-beta.nupkg.sha512"
+    }
+  }
+}
