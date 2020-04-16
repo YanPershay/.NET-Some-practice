@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj": {}
+    "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj": {
+    "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
+        "projectUniqueName": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
         "projectName": "ParameterConfigAWS",
-        "projectPath": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
+        "projectPath": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
         "packagesPath": "C:\\Users\\ypershay\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\obj\\",
+        "outputPath": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ypershay\\AppData\\Roaming\\NuGet\\NuGet.Config",

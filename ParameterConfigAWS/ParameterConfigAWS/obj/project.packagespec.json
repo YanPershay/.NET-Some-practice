@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
+    "projectUniqueName": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
     "projectName": "ParameterConfigAWS",
-    "projectPath": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
-    "outputPath": "C:\\Projects\\ParameterConfigAWS\\ParameterConfigAWS\\obj\\",
+    "projectPath": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\ParameterConfigAWS.csproj",
+    "outputPath": "C:\\YanPershay\\TrainProjects\\ParameterConfigAWS\\ParameterConfigAWS\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
