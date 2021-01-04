@@ -1,0 +1,12 @@
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\NancyEx.exe.config
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\NancyEx.exe
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\NancyEx.pdb
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\Nancy.dll
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\Nancy.Hosting.Self.dll
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\Nancy.xml
+D:\.NET-Some-trains\NancyFx\NancyEx\bin\Debug\Nancy.Hosting.Self.xml
+D:\.NET-Some-trains\NancyFx\NancyEx\obj\Debug\NancyEx.csprojAssemblyReference.cache
+D:\.NET-Some-trains\NancyFx\NancyEx\obj\Debug\NancyEx.csproj.CoreCompileInputs.cache
+D:\.NET-Some-trains\NancyFx\NancyEx\obj\Debug\NancyEx.csproj.CopyComplete
+D:\.NET-Some-trains\NancyFx\NancyEx\obj\Debug\NancyEx.exe
+D:\.NET-Some-trains\NancyFx\NancyEx\obj\Debug\NancyEx.pdb
