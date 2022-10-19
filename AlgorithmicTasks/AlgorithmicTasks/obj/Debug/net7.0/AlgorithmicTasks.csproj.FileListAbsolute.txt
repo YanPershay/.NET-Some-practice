@@ -1,0 +1,15 @@
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\net7.0\AlgorithmicTasks.exe
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\net7.0\AlgorithmicTasks.deps.json
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\net7.0\AlgorithmicTasks.runtimeconfig.json
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\net7.0\AlgorithmicTasks.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\net7.0\AlgorithmicTasks.pdb
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.csproj.AssemblyReference.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.AssemblyInfoInputs.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.AssemblyInfo.cs
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.csproj.CoreCompileInputs.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\refint\AlgorithmicTasks.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.pdb
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\AlgorithmicTasks.genruntimeconfig.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\net7.0\ref\AlgorithmicTasks.dll
