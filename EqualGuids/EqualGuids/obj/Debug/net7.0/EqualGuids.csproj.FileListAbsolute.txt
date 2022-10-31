@@ -1,0 +1,15 @@
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\bin\Debug\net7.0\EqualGuids.exe
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\bin\Debug\net7.0\EqualGuids.deps.json
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\bin\Debug\net7.0\EqualGuids.runtimeconfig.json
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\bin\Debug\net7.0\EqualGuids.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\bin\Debug\net7.0\EqualGuids.pdb
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.csproj.AssemblyReference.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.GeneratedMSBuildEditorConfig.editorconfig
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.AssemblyInfoInputs.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.AssemblyInfo.cs
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.csproj.CoreCompileInputs.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\refint\EqualGuids.dll
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.pdb
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\EqualGuids.genruntimeconfig.cache
+C:\YanPershay\TestProjects\.NET-Some-practice\EqualGuids\EqualGuids\obj\Debug\net7.0\ref\EqualGuids.dll
